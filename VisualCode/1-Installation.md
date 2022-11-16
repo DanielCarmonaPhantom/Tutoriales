@@ -17,6 +17,10 @@ Este nos ayuda a tener un entorno de proyecto ordenado por cada archivo que tend
 
 ### 1. Instalación en Windows
 
+### 2. Instalación en Linux
+
+### 3. Instalación en Mac
+
 ### 4. Extras
 Una vez que tengas el editor de texto, podrás personalizarlo como tu quieras, esto es para comodidad a la hora de que estes desarrollando.
 

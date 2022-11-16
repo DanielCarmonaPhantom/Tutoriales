@@ -3,9 +3,9 @@
 ## Contenido:
 
 ## Tutoriales
-* <a href=''>Python</a>
+* <a href='./Python/README.md'>Python</a>
 * Terminal
-* <a href='README.md'>VisualCode</a>
+* <a href='./VisualCode/README.md'>VisualCode</a>
 * Django
   
 ## Ejercicios
