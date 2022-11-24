@@ -10,7 +10,7 @@
 
 
 
-## <a href='1-Installation.md'>1. Instalación de Python</a>
+## 1. Instalación de Python
 Para poder programar en python en un entorno local, tendremos que instalar alguna de sus versiones. Hay IDES que ya traen instalado Python, pero aqui instalaremos todo desde 0
 
 <a href='1-Installation.md'>Link de las notas</a>
