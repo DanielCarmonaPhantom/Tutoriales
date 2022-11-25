@@ -7,7 +7,7 @@
 ## Contenido
 1. <a href='https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub/blob/master/1_Instalacion.md'>Instalación</a>
 2. <a href='https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub/blob/master/2_Introduccion.md'>Introducción a GIT</a>
-3. <a href='https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub/blob/master/3_Enlace.md'>Introducción a GIT</a>
+3. <a href='https://github.com/DanielCarmonaPhantom/Tutorial-Git-y-GitHub/blob/master/3_Enlace.md'>Enlazando nuestro primer Repo</a>
 
 ## 1. Instalación
 Tendremos que instalar git cuando queramos llevar un control de versiones de nuestros proyectos, así mismo cuando queramos subirlos a nuestro repositorio
