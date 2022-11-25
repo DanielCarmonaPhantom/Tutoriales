@@ -5,15 +5,15 @@
 
 ## Contenido
 
-1. <a href=''>Instalación de Visual Code</a>
+1. <a href='1-Installation.md'>Instalación de Visual Code</a>
 2. <a href=''>Instalación de Extenciones</a>
 
 
 
-## 1. <a href=''>Instalación de Visual Code</a>
+## 1. Instalación de Visual Code
 En este tutorial aprenderemos como hacer instalación de Visual Code para cada sistema operativo:
 * Windows
 * Linux
 * Mac
 
-<a href=''>Link de las notas</a>
+<a href='1-Installation.md'>Link de las notas</a>
