@@ -6,16 +6,16 @@
 
 ## Contenido
 1. <a href='1-Installation.md'>Instalación de Python</a>
-2. 
+2. <a href='2-Notebook.md'>Crear un Notebook en Visual Code</a>
 
 ## 1. Instalación de Python
 
 Para poder programar en python en un entorno local, tendremos que instalar alguna de sus versiones. Hay IDES que ya traen instalado Python, pero aqui instalaremos todo desde 0
 
-<a href='1-Installation.md'>Link de las notas</a>
+<a href='1-Installation.md'>Link del tutorial</a>
 
 ## 2. Crear un Notebook en Visual Code
 
-Para poder programar en python en un entorno local, tendremos que instalar alguna de sus versiones. Hay IDES que ya traen instalado Python, pero aqui instalaremos todo desde 0
+Ya que tienes un IDE instalado como puede ser Visual Code <a href='../VisualCode\1-Installation.md'>Tutorial de instalación</a>, procederemos a crear un archivo `.ipynb` en nuestra carpeta.
 
-<a href='1-Installation.md'>Link de las notas</a>
+<a href='2-Notebook.md'>Link del tutorial</a>

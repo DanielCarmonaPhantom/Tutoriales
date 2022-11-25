@@ -104,17 +104,17 @@ Aqui se encuentran actividades predeterminadas que ayudaran a nuestro código o 
 <img src='https://www.mclibre.org/consultar/informatica/img/vscode/vsc-uso-actividades-explorador-apartados-1.png'>
 Aqui son los archivos que tienes en la carpeta que estas trabajando. Puedes crear carpetas y archivos desde ahí con los iconos que aparecen.
 
-### Editor
+### 3. Editor
 Aqui podras trabajar en cada archivo, ya sea un `html`, `js`, `css`, etc. Y se abriran en forma como pestañas de navegador de internet.
 
 <img src='http://devclass.com/wp-content/uploads/2022/05/brackets.jpg'>
 
-### Minimapa
+### 4. Minimapa
 Este suele ser una visualización de todo tu código en ese archivo
 
 <img src='https://aieffortless.files.wordpress.com/2020/07/screen-shot-2020-07-06-at-11.40.34-pm.png'>
 
-### Panel
+### 5. Panel
 Aquí podras tener varias pestañas entre la que se destaca es la de Terminal que se incorpora una terminal normal al IDE
 <img src='http://theblogreaders.com/wp-content/uploads/2020/06/VisualStudioCode-SwitchCommandPrompt.png'>
 
