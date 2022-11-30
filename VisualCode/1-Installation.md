@@ -8,7 +8,7 @@ En este tutorial aprenderemos como hacer instalación de Visual Code para cada s
 * Linux
 * Mac
 
-Este nos ayuda a tener un entorno de proyecto ordenado por cada archivo que tendremos. Suele utilizarse para diferentes lenguajes.
+Esto nos ayuda a tener un entorno de proyecto ordenado por cada archivo que tendremos. Suele utilizarse para diferentes lenguajes.
 
 ## Contenido:
 
@@ -23,21 +23,21 @@ Este nos ayuda a tener un entorno de proyecto ordenado por cada archivo que tend
 
 ### Instalación en Windows
 
-Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecera el boton para descargar. 
+Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecerá el botón para descargar. 
 
-Si tienes algúna duda, puedes seguir esta guía:
+Si tienes alguna duda, puedes seguir esta guía:
 [Video de instalación de Visual Studio Code en Windows](https://www.youtube.com/watch?v=Hs49jA6FizM)
 
 ### Instalación en Mac
-Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecera el boton para descargar. 
+Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecerá el boton para descargar. 
 
-Si tienes algúna duda, puedes seguir esta guía:
+Si tienes alguna duda, puedes seguir esta guía:
 [Video de instalación de Visual Studio Code en MAC](https://www.youtube.com/watch?v=eG27tmTfFFc)
 
 ### Instalación en Linux
-Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecera el boton para descargar. 
+Procederemos a ir a la página principal de Visual Code https://code.visualstudio.com/ y nos aparecerá el boton para descargar. 
 
-Si tienes algúna duda, puedes seguir esta guía:
+Si tienes alguna duda, puedes seguir esta guía:
 [Video de instalación de Visual Studio Code en Linux](https://www.youtube.com/watch?v=ROXcgWe3Fsc)
 
 
@@ -54,12 +54,12 @@ Ahora debes seleccionar la carpeta donde empezaras a trabajar.
 Hay 3+ formas para abrir una carpeta para empezar a trabajar.
 
 ### Forma 1: Seleccionando la opción `Open folder`
-Este te abrira el explorador de archivos y deberas **Seleccionar** la carpeta dandole 1 click y dando en el boton de abajo donde seleccionas esa carpeta. **No dar doble click**
+Este te abrira el explorador de archivos y deberás **Seleccionar** la carpeta dandole 1 click y dando en el botón de abajo donde seleccionas esa carpeta. **No dar doble click**
 
-### Forma 2: Desde el explorar de archivos, arrastrar la carpeta adentro del Editor
+### Forma 2: Desde el explorador de archivos, arrastrar la carpeta dentro del Editor
 
 
-Paso 1: Abir en el [Explorador de archivos Windows][Finder MAC] la ubicación donde se encuentra la carpeta donde deseas trabajar. (Crear una nueva)
+Paso 1: Abrir en el [Explorador de archivos Windows][Finder MAC] la ubicación donde se encuentra la carpeta donde deseas trabajar. (Crear una nueva)
 
 <img src='https://i.blogs.es/56b917/explorador-tactil/1366_2000.jpg'>
 
@@ -67,7 +67,7 @@ Paso 2: Arrastraras la carpeta adentro del IDE
 
 <img src='https://vfpajs.files.wordpress.com/2020/08/js29.png?w=985'>
 
-### Forma 3: Desde Simbolos del sistema/terminal
+### Forma 3: Desde Símbolos del sistema/terminal
 Si sabes navegar por la terminal solo debes utilizar el comando `code` y la ubicación de la carpeta. (No siempre viene configurado al principio)
 
 <img src='https://code.visualstudio.com/assets/docs/editor/command-line/launch-vscode.png'>
@@ -96,16 +96,16 @@ Aquí se divide en 2:
 
 #### Actividades
 
-Aqui se encuentran actividades predeterminadas que ayudaran a nuestro código o interfaz. El más usado al principio es el icono de Extensiones. 
+Aqui se encuentran actividades predeterminadas que ayudarán a nuestro código o interfaz. El más usado al principio es el icono de Extensiones. 
 
 <img src='https://www.mclibre.org/consultar/informatica/img/vscode/vsc-perso-idioma-1.png'>
 
-#### Eplorador de archivos
+#### Explorador de archivos
 <img src='https://www.mclibre.org/consultar/informatica/img/vscode/vsc-uso-actividades-explorador-apartados-1.png'>
 Aqui son los archivos que tienes en la carpeta que estas trabajando. Puedes crear carpetas y archivos desde ahí con los iconos que aparecen.
 
 ### 3. Editor
-Aqui podras trabajar en cada archivo, ya sea un `html`, `js`, `css`, etc. Y se abriran en forma como pestañas de navegador de internet.
+Aquí podrás trabajar en cada archivo, ya sea un `html`, `js`, `css`, etc. Y se abrirán en forma como pestañas de navegador de internet.
 
 <img src='http://devclass.com/wp-content/uploads/2022/05/brackets.jpg'>
 
@@ -115,12 +115,12 @@ Este suele ser una visualización de todo tu código en ese archivo
 <img src='https://aieffortless.files.wordpress.com/2020/07/screen-shot-2020-07-06-at-11.40.34-pm.png'>
 
 ### 5. Panel
-Aquí podras tener varias pestañas entre la que se destaca es la de Terminal que se incorpora una terminal normal al IDE
+Aquí podrás tener varias pestañas entre la que se destaca es la de Terminal que se incorpora una terminal normal al IDE
 <img src='http://theblogreaders.com/wp-content/uploads/2020/06/VisualStudioCode-SwitchCommandPrompt.png'>
 
 ## Siguientes pasos
 
-Una vez que tengas el editor de texto, podrás personalizarlo como tu quieras, esto es para comodidad a la hora de que estes desarrollando.
+Una vez que tengas el editor de texto, podrás personalizarlo como tu quieras, esto es para comodidad a la hora de que estés desarrollando.
 
 En la tienda de extensiones podrás encontrar:
 
